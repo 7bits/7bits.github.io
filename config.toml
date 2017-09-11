@@ -1,0 +1,5 @@
+baseURL = "https://7bits.github.io"
+languageCode = "en-us"
+title = "7bits blog"
+
+theme = "hugo_theme_solit"
