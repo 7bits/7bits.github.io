@@ -6,6 +6,7 @@ tags:
   - internship
 image:
   teaser: /assets/images/2016/07/DSC_0200.JPG
+  feature: /assets/images/2016/07/DSC_0200.JPG
 ---
 
 ### 7 недель в 7bits
