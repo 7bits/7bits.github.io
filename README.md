@@ -1,5 +1,7 @@
 # Blog
 
+[![Build Status](https://travis-ci.org/7bits/7bits.github.io.svg)](https://travis-ci.org/7bits/7bits.github.io)
+
 We use [jekyll](https://jekyllrb.com) static site generator which supports [github pages](https://pages.github.com/). So this blog is hosted on github.
 
 ## How to make a new post

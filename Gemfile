@@ -5,3 +5,8 @@ gem 'jekyll'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
+
+group :test do
+  gem "html-proofer"
+  gem "rake"
+end
