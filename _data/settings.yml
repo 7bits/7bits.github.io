@@ -11,7 +11,6 @@ disqus:
 google-ID:
 
 menu:
-- {name: 'Archive', url: 'writing.html'}
 
 social:
 - {icon: 'github', link: 'https://github.com/7bits'}
