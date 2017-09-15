@@ -7,14 +7,11 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed]
+url: 7bits.github.io
 
 # Customise feed settings (uncommenting following two fields to customise feed title and description)
 title:		     "7bits"
 description:	 "О работе и жизни компании"
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#   path:	     rss-feed.xml
 
 port: 3000
 

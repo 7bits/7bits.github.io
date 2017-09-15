@@ -1,21 +1,22 @@
 title:  7bits
 tagline:  О работе и жизни компании
 
-# Authors documented under _data
-
-# Change to true for Disqus comments
 disqus:
   comments: true
   disqus_shortname: 'sevenbits'
+
+analytics:
+  yandex:
+    id: 45958344
+  google:
+    id:
 
 google-ID:
 
 menu:
 
 social:
-- {icon: 'github', link: 'https://github.com/7bits'}
-- {icon: 'twitter', link: 'https://twitter.com/_7bits'}
+- {icon: 'globe', link: 'https://7bits.it'}
+- {icon: 'vk', link: 'https://vk.com/7bits'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/company/2559736/'}
 - {icon: 'envelope', link: 'mailto:aloha@7bits.it'}
-
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
