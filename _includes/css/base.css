@@ -69,6 +69,14 @@ blockquote p {
 /*
   Site container
 */
+.header__container {
+  width: 100%;
+  background: -webkit-linear-gradient(0deg, #6f77b9 0%, #9676b5 100%);
+  background: -moz-linear-gradient(0deg, #6f77b9 0%, #9676b5 100%);
+  background: -o-linear-gradient(0deg, #6f77b9 0%, #9676b5 100%);
+  background: -ms-linear-gradient(0deg, #6f77b9 0%, #9676b5 100%);
+  background: linear-gradient(90deg, #6f77b9 0%, #9676b5 100%);
+}
 
 .container {
   margin-left: auto;
@@ -96,11 +104,23 @@ blockquote p {
 */
 
 .masthead {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
   margin-bottom: 4rem;
 }
-
+.masthead__logo {
+  cursor: pointer;
+  display: inline-block;
+  width: 145px;
+  height: 66px;
+  background-image: url("../../assets/images/logo7bits.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center
+}
+.masthead__logo:hover {
+  opacity: 0.7;
+}
 .masthead a:hover {
   color:black;
 }
@@ -113,9 +133,24 @@ blockquote p {
 }
 
 .masthead-subtitle {
-  color: #999;
+  margin-left: 20px;
+  font-family: Roboto, sans-serif;
+  font-size: 1.438rem;
+  color:  rgba(255, 255, 255, 0.7);
+  font-weight: 300;
+  position: relative;
+  bottom: calc(33px - 1.438rem/2);
 }
 
+/*48em*/
+
+@media (max-width: 530px) {
+  .masthead-subtitle {
+    padding-top: 24px;
+    position: relative;
+    font-size: 1rem;
+  }
+}
 /*
   Post
 */
@@ -211,13 +246,52 @@ blockquote p {
   Menu
 */
 
+.menu__text:hover {
+  opacity: 0.7;
+}
+
 .menu {
-  padding-top: 0.5rem;
-  display: block;
+  display: inline-block;
+  float:  right;
+  position: relative;
+  top: calc(30px - 1.438rem/2);
+  vertical-align: baseline;
+}
+
+@media (max-width: 1366px) {
+  .menu {
+    display: block;
+    position: static;
+    float: left;
+  }
+  .menu__text {
+    margin-left: -18px;
+  }
+  .header__container {
+    height: 145px;
+  }
+}
+@media (max-width: 485px) {
+  .menu {
+    display: none;
+  }
 }
 
 .menu-content {
-  float: left;
+  float: right;
+}
+
+.menu__wrapper {
+  display: inline-block;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.menu__text {
+  cursor: pointer;
+  font-family: Roboto, sans-serif;
+  color:  rgba(255, 255, 255, 0.7);
+  font-size: 1.25rem;
+  font-weight: 300;
 }
 
 .menu-content a {
@@ -227,14 +301,77 @@ blockquote p {
 }
 
 .social-icons {
-  float: right;
+  display: inline-block;
+  word-spacing: 6px;
+}
+
+.social-icons_size-git,
+.social-icons_size-vk,
+.social-icons_size-tw,
+.social-icons_size-mail,
+.social-icons_size-in,
+.social-icons_size-youtube-play,
+.social-icons_size {
+  display: inline-block;
+  cursor: pointer;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  top: -4px;
+}
+.social-icons_size-youtube-play {
+  background-image: url(../../assets/images/icon/ytb.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.social-icons_size-in {
+  background-image: url(../../assets/images/icon/in.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.social-icons_size-mail {
+  background-image: url(../../assets/images/icon/mail.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;;
+}
+.social-icons_size-tw {
+  background-image: url(../../assets/images/icon/tw.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.social-icons_size-vk {
+  background-image: url(../../assets/images/icon/vk.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.social-icons_size-git {
+  background-image: url(../../assets/images/icon/git.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.social-icons_size-youtube-play:hover,
+.social-icons_size-in:hover,
+.social-icons_size-mail:hover,
+.social-icons_size-tw:hover,
+.social-icons_size-vk:hover,
+.social-icons_size-git:hover {
+  opacity: 0.7;
 }
 
 .social-icons a {
-  color: #999;
-  font-size: 1rem;
+  display: inline-block;
+  vertical-align: middle;
+  width: 2rem;
+  height: 2rem;
 }
-
 @media (max-width: 30em) {
   .social-icons {
     float: left;
