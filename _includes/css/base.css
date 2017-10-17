@@ -77,7 +77,11 @@ blockquote p {
   background: -ms-linear-gradient(0deg, #6f77b9 0%, #9676b5 100%);
   background: linear-gradient(90deg, #6f77b9 0%, #9676b5 100%);
 }
+.header__container__wrapper {
+  margin-bottom: 50px;
+}
 
+.header__container__wrapper,
 .container {
   margin-left: auto;
   margin-right: auto;
@@ -86,6 +90,7 @@ blockquote p {
 }
 
 @media (max-width: 1366px) {
+  .header__container__wrapper,
   .container {
     width: 60vw;
   }
@@ -94,6 +99,7 @@ blockquote p {
 /*48em*/
 
 @media (max-width: 768px) {
+  .header__container__wrapper,
   .container {
     width: 90vw;
   }
@@ -104,19 +110,31 @@ blockquote p {
 */
 
 .masthead {
-  padding-top: 0.35rem;
-  padding-bottom: 0.35rem;
-  margin-bottom: 4rem;
+  font-size: 0;
+  line-height: 0;
+  text-align: justify;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  height: 60px;
+  position: relative;
 }
+
+
 .masthead__logo {
-  cursor: pointer;
   display: inline-block;
+  cursor: pointer;
   width: 145px;
-  height: 66px;
+  height: 60px;
   background-image: url("../../assets/images/logo7bits.png");
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: center
+  background-position: center;
+}
+.masthead__logo a {
+  display: inline-block;
+  vertical-align: middle;
+  width: 145px;
+  height: 60px;
 }
 .masthead__logo:hover {
   opacity: 0.7;
@@ -129,26 +147,25 @@ blockquote p {
   font-size: 2rem;
   text-decoration: none;
   color: #505050;
-  font-family: "lato-bold"
+  font-family: "lato-bold";
 }
 
 .masthead-subtitle {
+  display: inline-block;
   margin-left: 20px;
   font-family: Roboto, sans-serif;
   font-size: 1.438rem;
   color:  rgba(255, 255, 255, 0.7);
   font-weight: 300;
-  position: relative;
-  bottom: calc(33px - 1.438rem/2);
+  position: absolute;
+  line-height: 68px;
 }
 
 /*48em*/
 
 @media (max-width: 530px) {
   .masthead-subtitle {
-    padding-top: 24px;
-    position: relative;
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 }
 /*
@@ -253,38 +270,32 @@ blockquote p {
 .menu {
   display: inline-block;
   float:  right;
-  position: relative;
-  top: calc(30px - 1.438rem/2);
-  vertical-align: baseline;
+  margin-top: 15px;
 }
 
-@media (max-width: 1366px) {
+@media (max-width: 1023px) {
   .menu {
     display: block;
-    position: static;
-    float: left;
+    float: none;
+    margin-left: 7px;
   }
-  .menu__text {
-    margin-left: -18px;
-  }
-  .header__container {
-    height: 145px;
-  }
-}
-@media (max-width: 485px) {
-  .menu {
-    display: none;
-  }
-  .header__container {
-    height: inherit;
+  .masthead {
+    height: 78px;
   }
 }
 @media (max-width: 440px) {
   .masthead-subtitle {
     display: block;
+    margin-left: 10px;
   }
-  .header__container {
-    height: 130px;
+  .menu {
+    float: right;
+  }
+  .masthead {
+    height: 80px;
+  }
+  .header__container__wrapper {
+    margin-bottom: 30px;
   }
 }
 
@@ -325,10 +336,8 @@ blockquote p {
 .social-icons_size {
   display: inline-block;
   cursor: pointer;
-  width: 2rem;
-  height: 2rem;
-  position: relative;
-  top: -4px;
+  width: 32px;
+  height: 32px;
 }
 .social-icons_size-youtube-play {
   background-image: url(../../assets/images/icon/ytb.png);
@@ -380,8 +389,8 @@ blockquote p {
 .social-icons a {
   display: inline-block;
   vertical-align: middle;
-  width: 2rem;
-  height: 2rem;
+  width: 32px;
+  height: 32px;
 }
 @media (max-width: 30em) {
   .social-icons {
