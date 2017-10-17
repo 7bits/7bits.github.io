@@ -275,6 +275,17 @@ blockquote p {
   .menu {
     display: none;
   }
+  .header__container {
+    height: inherit;
+  }
+}
+@media (max-width: 440px) {
+  .masthead-subtitle {
+    display: block;
+  }
+  .header__container {
+    height: 130px;
+  }
 }
 
 .menu-content {
