@@ -309,6 +309,7 @@ blockquote p {
 .social-mail {
   display: inline-block;
   margin-left: 20px;
+  margin-right: 12px;
   font-family: Roboto, sans-serif;
   font-size: 1.438rem;
   font-weight: 300
@@ -400,7 +401,7 @@ blockquote p {
   display: none;
 }
 
-@media (max-width: 1180px) {
+@media (max-width: 1190px) {
   .menu {
     display: block;
     float: none;

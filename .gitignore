@@ -6,6 +6,10 @@ _site/
 .sass-cache/
 .jekyll-metadata
 
+### IDEA ###
+/.idea/
+/.idea
+
 ### Linux ###
 *~
 
