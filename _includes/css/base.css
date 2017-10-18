@@ -178,7 +178,7 @@ blockquote p {
 
 .posts {
   margin-bottom: 5rem;
-  padding: 0px;
+  padding: 0;
   list-style: none;
 }
 
@@ -188,6 +188,10 @@ blockquote p {
   margin-bottom: 1rem;
   color: #9a9a9a;
   font-size:0.8rem;
+}
+
+.posts h1 {
+  margin-bottom: 2rem;
 }
 
 @media (max-width: 30rem) {
@@ -201,7 +205,7 @@ blockquote p {
 }
 
 .related-posts {
-  padding-left: 0px;
+  padding-left: 0;
   list-style: none;
 }
 
@@ -270,34 +274,9 @@ blockquote p {
 .menu {
   display: inline-block;
   float:  right;
-  margin-top: 15px;
+  margin-top: 17px;
 }
 
-@media (max-width: 1023px) {
-  .menu {
-    display: block;
-    float: none;
-    margin-left: 7px;
-  }
-  .masthead {
-    height: 78px;
-  }
-}
-@media (max-width: 440px) {
-  .masthead-subtitle {
-    display: block;
-    margin-left: 10px;
-  }
-  .menu {
-    float: right;
-  }
-  .masthead {
-    height: 80px;
-  }
-  .header__container__wrapper {
-    margin-bottom: 30px;
-  }
-}
 
 .menu-content {
   float: right;
@@ -325,6 +304,25 @@ blockquote p {
 .social-icons {
   display: inline-block;
   word-spacing: 6px;
+}
+
+.social-mail {
+  display: inline-block;
+  margin-left: 20px;
+  font-family: Roboto, sans-serif;
+  font-size: 1.438rem;
+  font-weight: 300
+}
+.social-mail a {
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.7);
+  vertical-align: middle;
+  position: relative;
+  top: 7px;
+  cursor: pointer;
+}
+.social-mail:hover a {
+  color: rgba(255, 255, 255, 0.5);
 }
 
 .social-icons_size-git,
@@ -386,12 +384,61 @@ blockquote p {
   opacity: 0.7;
 }
 
-.social-icons a {
+.social-icons_size-youtube-play a,
+.social-icons_size-in a,
+.social-icons_size-mail a,
+.social-icons_size-tw a,
+.social-icons_size-vk a,
+.social-icons_size-git a {
   display: inline-block;
   vertical-align: middle;
   width: 32px;
   height: 32px;
+  cursor: pointer;
 }
+.social-icons_size-mail {
+  display: none;
+}
+
+@media (max-width: 1180px) {
+  .menu {
+    display: block;
+    float: none;
+  }
+  .masthead {
+    height: 78px;
+  }
+  .social-mail {
+    margin-left: 7px;
+    position: relative;
+    top: -1px;
+  }
+}
+@media (max-width: 440px) {
+  .masthead-subtitle {
+    display: block;
+    margin-left: 10px;
+  }
+  .menu {
+    float: right;
+  }
+  .masthead {
+    height: 80px;
+  }
+  .header__container__wrapper {
+    margin-bottom: 30px;
+  }
+  .social-icons_size-mail {
+    display: inline-block;
+  }
+  .social-mail {
+    display: none;
+  }
+  .social-mail a {
+    display: none;
+  }
+}
+
 @media (max-width: 30em) {
   .social-icons {
     float: left;
