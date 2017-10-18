@@ -189,7 +189,7 @@ blockquote p {
   color: #9a9a9a;
   font-size:0.8rem;
 }
-
+.post-container h1,
 .posts h1 {
   margin-bottom: 2rem;
 }
