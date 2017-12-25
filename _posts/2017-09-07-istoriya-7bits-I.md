@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "История 7bits, начало"
+title: "История 7bits, часть первая. Начало"
 date: 2017-09-07T18:00:00+06:00
 tags:
   - story
