@@ -4,9 +4,12 @@
 {% include head.html %}
 
 <body>
-
+  <div class="header__container">
+    <div class="header__container__wrapper">
+      {% include header.html %}
+    </div>
+  </div>
   <div class="container">
-    {% include header.html %}
 
     <div class="post-container">
       {{ content }}
