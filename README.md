@@ -12,7 +12,19 @@ To attach files and images, you can put them in the `assets` folder.
 
 When you push to the `master` branch, github automagically compile this blog and update data. It may consume 5 minutes.
 
-## How setup environment
+## How setup environment (docker)
+
+You need to have docker been installed on you machine. Also we use `make` to simplify commands.
+
+- `make` - run server
+- `make test` - test blog, links, styles
+- `make build` - build blog. Actually you do not need this.
+- `make update` - update gems.
+- `make down` - destoy docker container.
+
+---
+
+## How setup environment (Full guide)
 
 You need a ruby installed on your computer - [Download ruby](https://www.ruby-lang.org/en/downloads/). On linux, osx you can do it via package manager, but i recommend to use [RVM](https://rvm.io/).
 
