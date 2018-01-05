@@ -25,3 +25,4 @@ exclude:
   - Rakefile
   - README.md
   - LICENSE
+  - docker-compose.yml
