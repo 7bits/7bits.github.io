@@ -9,7 +9,7 @@ image:
   feature: /assets/images/2017/09/people-learning.jpg
 ---
 
-Изначально этот текст был [опубликован](https://vk.com/itliftomsk?w=wall-58952501_995) Анной Тарасенко в [группе](https://vk.com/itliftomsk) IT-lift Вконтакте. Далее от первого лица. 
+Изначально этот текст был <a href="https://vk.com/itliftomsk?w=wall-58952501_995" target="_blank">опубликован</a> Анной Тарасенко в <a href="https://vk.com/itliftomsk" target="_blank">группе</a> IT-lift Вконтакте. Далее от первого лица. 
 
 Вот мы и добрались до загадочного IT-lift, концепция которого у нас самих в голове сложилась не сразу.
 
