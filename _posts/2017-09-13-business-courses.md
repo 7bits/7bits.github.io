@@ -44,3 +44,5 @@ image:
 Если вам интересно узнать, как не набить шишек, больше, чем надо, приходите. Поверьте, цена достаточно низкая для того, что вы получите на курсе. В следующем году цены будут выше.
 
 <a href="http://itlift.1der.link/courses/internet-business" target="_blank">Страница</a> специальности с регистрацией.
+
+P.S. На фото шаги <a href="https://www.google.ru/search?q=Customer+development&ie=utf-8&oe=utf-8&gws_rd=cr&dcr=0&ei=Gw1WWtq5O4GcsgHFuK7wCg" target="_blank">Customer development</a>, именно этот вариант подсмотрен во ФРИИ.
