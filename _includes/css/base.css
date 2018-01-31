@@ -3,7 +3,8 @@
 */
 
 body {
-  font-family: 'latolight', sans-serif;
+  font-weight: 300;
+  font-family: 'Lato', sans-serif;
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
@@ -29,6 +30,11 @@ h1 a {
 
 h1, h2, h3, h4, h5, h6 {
   color: #333;
+  font-weight: 300;
+}
+
+b, strong {
+  font-weight: 400;
 }
 
 a {
