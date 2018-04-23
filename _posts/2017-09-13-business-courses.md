@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "О новых курсах по бизнесу и стартапам в IT-lift"
+redirect_to: http://blog.itlft.ru/business-courses.html
 date: 2017-09-13T18:00:00+06:00
 tags:
   - story

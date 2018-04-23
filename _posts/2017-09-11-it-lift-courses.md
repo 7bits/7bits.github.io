@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Подробно о курсах по основным специальностям в IT-lift"
+redirect_to: http://blog.itlft.ru/it-lift-courses.html
 date: 2017-09-11T18:00:00+06:00
 tags:
   - story

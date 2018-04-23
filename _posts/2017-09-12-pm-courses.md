@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "О новых курсах по управлению проектами и своим временем в IT-lift"
+redirect_to: http://blog.itlft.ru/pm-courses.html
 date: 2017-09-12T18:00:00+06:00
 tags:
   - story
