@@ -15,7 +15,7 @@ module Jekyll
     end
 
     def render(context)
-      baseurl = "#{lookup(context, 'site.github.url')}"
+      baseurl = "#{lookup(context, 'site.url')}"
       photo = ""
       author = ""
       position = ""
