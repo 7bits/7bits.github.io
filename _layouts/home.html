@@ -12,7 +12,12 @@ title: Home
     <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}{{ post.image.teaser }}" alt=""></a>
   {% endif %}
   <p>
-    {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
+    {% if post.cut %}
+      {{ post.cut }}
+    {% else %}
+      {{ post.content | strip_html | truncate: 350 }}    
+    {% endif %}
+    <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
     <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
   </p>
 </div>
