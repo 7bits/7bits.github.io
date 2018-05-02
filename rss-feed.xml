@@ -7,6 +7,19 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Omsky Ludum Dare 41</title>
+				
+				
+					<description>&lt;p&gt;&lt;em&gt;Две команды с ребятами из 7bits выступили в #41-и геймджеме Ludum Dare&lt;/em&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 28 Apr 2018 12:00:00 +0000</pubDate>
+				<link>/ludumdare-41.html</link>
+				<guid isPermaLink="true">/ludumdare-41.html</guid>
+			</item>
+		
+			<item>
 				<title>Мини-автобиография одной девушки в ИТ</title>
 				
 				
@@ -123,19 +136,6 @@
 				<pubDate>Sun, 10 Sep 2017 12:00:00 +0000</pubDate>
 				<link>/istoriya-7bits-III.html</link>
 				<guid isPermaLink="true">/istoriya-7bits-III.html</guid>
-			</item>
-		
-			<item>
-				<title>История 7bits, часть вторая. Об обучении</title>
-				
-				
-					<description>&lt;p&gt;Изначально этот текст был &lt;a href=&quot;https://vk.com/7bits?w=wall-80874894_321&quot; target=&quot;_blank&quot;&gt;опубликован&lt;/a&gt; Анной Тарасенко в &lt;a href=&quot;https://vk.com/7bits&quot; target=&quot;_blank&quot;&gt;группе&lt;/a&gt; 7bits Вконтакте. Далее от первого лица.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 08 Sep 2017 12:00:00 +0000</pubDate>
-				<link>/istoriya-7bits-II.html</link>
-				<guid isPermaLink="true">/istoriya-7bits-II.html</guid>
 			</item>
 		
 	</channel>
