@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-05-02T17:49:46+00:00</updated><id>/</id><title type="html">7bits</title><subtitle>О работе и жизни компании</subtitle><entry><title type="html">Omsky Ludum Dare 41</title><link href="/ludumdare-41.html" rel="alternate" type="text/html" title="Omsky Ludum Dare 41" /><published>2018-04-28T12:00:00+00:00</published><updated>2018-04-28T12:00:00+00:00</updated><id>/ludumdare-41</id><content type="html" xml:base="/ludumdare-41.html">&lt;p&gt;&lt;em&gt;Две команды с ребятами из 7bits выступили в #41-и геймджеме Ludum Dare.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-05-02T18:04:53+00:00</updated><id>/</id><title type="html">7bits</title><subtitle>О работе и жизни компании</subtitle><entry><title type="html">Omsky Ludum Dare 41</title><link href="/ludumdare-41.html" rel="alternate" type="text/html" title="Omsky Ludum Dare 41" /><published>2018-04-28T12:00:00+00:00</published><updated>2018-04-28T12:00:00+00:00</updated><id>/ludumdare-41</id><content type="html" xml:base="/ludumdare-41.html">&lt;p&gt;&lt;em&gt;Две команды с ребятами из 7bits выступили в #41-и геймджеме Ludum Dare.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;команда-карасик&quot;&gt;Команда “Карасик”&lt;/h1&gt;
 
 &lt;div class=&quot;author&quot;&gt;&lt;div class=&quot;author__content&quot;&gt;&lt;img src=&quot;/assets/images/2018/04/misha.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; class=&quot;author__photo&quot; /&gt;&lt;div&gt;&lt;span class=&quot;author__label&quot;&gt;Автор поста &lt;/span&gt;&lt;div class=&quot;author__author&quot;&gt;&lt;span class=&quot;author__name&quot;&gt;Михаил Реммеле,&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;author__position&quot;&gt;разработчик 7bits&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;author__intro&quot;&gt;Участвую в Людуме второй раз, и снова в роли художника (внезапно). &lt;br /&gt;О названии команды говорить нет особого смысла, потому что каждый раз оно разное, и придумывается за день-два до открытия регистрации на Людум. Ну ладно, в этот раз был Карасик. Точнее QUARASIQUE. Ну так, для солидности.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt; 
-На этот раз, темой Людума было совмещение двух несовместимых жанров. Мы, как опытные игроделы, решили не совершать ошибок прошлого и потратили гораздо больше времени на продумывание идеи, перебрали порядка нескольких сотен (одного десятка) различных вариантов, но остановились на одном.&lt;/p&gt;
+
+&lt;p&gt;На этот раз, темой Людума было совмещение двух несовместимых жанров. Мы, как опытные игроделы, решили не совершать ошибок прошлого и потратили гораздо больше времени на продумывание идеи, перебрали порядка нескольких сотен (одного десятка) различных вариантов, но остановились на одном.&lt;/p&gt;
 
 &lt;h2 id=&quot;вариант-1&quot;&gt;Вариант 1&lt;/h2&gt;
 
 &lt;p&gt;Лучшего и придумать было нельзя. Можно сказать, что мы сняли вишенку с торта, состоящего из крутых идей. Итак, мы решили делать симулятор мусорщика. Полное погружение, шикарная история, 9 концовок, невероятный экшн — все это было в нашей игре. Совмещение двух жанров — симулятора жизни и файтинга. Спрашиваете, где там может быть файтинг? Ну это очень просто. Если есть мусор, то есть и бездомные, а разве они захотят без боя отдать свои сокровища? В общем идея была на 10 из 10. Правда при долгих обсуждениях, мы пришли к выводу, что потянуть столь крутой проект, да еще и за два дня, мы не в состоянии. К этому моменту уже нужно было презентовать свою идею, поэтому для демо мы решили оставить то что есть, а дальше уже по ходу дела со всем разобраться.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2018/04/karasiq_last.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2018/04/karasiq_last.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Дима и Миша на прошлом хакатоне&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Этот Людум для нас имел два существенных отличия по сравнению с предыдущим.&lt;/p&gt;
@@ -23,10 +23,10 @@
 
 &lt;h2 id=&quot;вариант-2&quot;&gt;Вариант 2&lt;/h2&gt;
 
-&lt;p&gt;Две обезьяны, разделенные деревянной перегородкой, могут бросать какахи под определенным углом и с определенной силой. У каждого на участке были специальные лунки, попадая в которые, игрок зарабатывал очки. Забрасывать снаряды нужно было в лунки соперника. Можно и в свои, но такие вещи наказываются, начислением очков врагу. Также, при попадании во врага, у того отнимались жизни. &lt;del&gt;З̶а̶с̶м̶е̶я̶л̶с̶я̶&lt;/del&gt; Кончились — проиграл. Сам бой должен был идти определенное время, по истечение которого, производится подсчет очков и определение победителя. Должен был, потому что сделать это мы не успели. Также, мы хотели реализовать в игре кросс-платформенный мультиплеер на 64 игрока, но в итоге Дима написал ИИ за час до показа.&lt;/p&gt;
+&lt;p&gt;Две обезьяны, разделенные деревянной перегородкой, могут бросать какахи под определенным углом и с определенной силой. У каждого на участке были специальные лунки, попадая в которые, игрок зарабатывал очки. Забрасывать снаряды нужно было в лунки соперника. Можно и в свои, но такие вещи наказываются, начислением очков врагу. Также, при попадании во врага, у того отнимались жизни. &lt;del&gt;З̶а̶с̶м̶е̶я̶л̶с̶я̶&lt;/del&gt; Кончились — проиграл. Сам бой должен был идти определенное время, по истечение которого, производится подсчет очков и определение победителя. Должен был, потому что сделать это мы не успели. Также, мы хотели реализовать в игре кроссплатформенный мультиплеер на 64 игрока, но в итоге Дима написал ИИ за час до показа.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2018/04/karasiq_screenshot.png&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;Cцена из игры «Funkey Monkeys»&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2018/04/karasiq_screenshot.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Сцена из игры «Funkey Monkeys»&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Несмотря на то, что мы многого не успели, а сама игра на выходе получилась довольно незамысловатой, фана мы получили существенно больше, чем в прошлый раз. Отчасти от того, что мы обошли пару прошлых грабель стороной, но в основном благодаря ламповой атмосфере, которая воцарилась дома на время разработки.&lt;/p&gt;
 
@@ -36,9 +36,9 @@
 
 &lt;h1 id=&quot;команда-cat_in_the_dark&quot;&gt;Команда CAT_IN_THE_DARK&lt;/h1&gt;
 
-&lt;div class=&quot;author&quot;&gt;&lt;div class=&quot;author__content&quot;&gt;&lt;img src=&quot;/assets/images/2018/04/ilya.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; class=&quot;author__photo&quot; /&gt;&lt;div&gt;&lt;span class=&quot;author__label&quot;&gt;Автор поста &lt;/span&gt;&lt;div class=&quot;author__author&quot;&gt;&lt;span class=&quot;author__name&quot;&gt;Илья Сиганов,&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;author__position&quot;&gt;разработчик и исследователь 7bits&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;author__intro&quot;&gt;Участвовую в Людум Даре 14 раз подряд за последние 5 лет в команде CAT_IN_THE_DARK. Уже не могу остановиться делать игры.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;author&quot;&gt;&lt;div class=&quot;author__content&quot;&gt;&lt;img src=&quot;/assets/images/2018/04/ilya.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; class=&quot;author__photo&quot; /&gt;&lt;div&gt;&lt;span class=&quot;author__label&quot;&gt;Автор поста &lt;/span&gt;&lt;div class=&quot;author__author&quot;&gt;&lt;span class=&quot;author__name&quot;&gt;Илья Сиганов,&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;author__position&quot;&gt;разработчик и исследователь 7bits&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;author__intro&quot;&gt;Участвую в Людум Даре 14 раз подряд за последние 5 лет в команде CAT_IN_THE_DARK. Уже не могу остановиться делать игры.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;В эти выходные, 21–22 апреля, мы командой CAT_IN_THE_DARK, состоящей в этот раз только из меня и Светы, делали игру на тему “Combine 2 Incompatible Genres” в рамках мирового LudumDare.&lt;/p&gt;
+&lt;p&gt;В эти выходные, 21–22 апреля, мы командой CAT_IN_THE_DARK, состоящей в этот раз только из &lt;a href=&quot;https://vk.com/senior_sigan&quot;&gt;меня&lt;/a&gt; и &lt;a href=&quot;https://vk.com/svsoyka&quot;&gt;Светы&lt;/a&gt;, делали игру на тему “Combine 2 Incompatible Genres” в рамках мирового &lt;a href=&quot;https://ldjam.com/events/ludum-dare/41/&quot;&gt;LudumDare&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/2018/04/cat_in_the_dark_best.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Лучшие игры нашей команды: &lt;a href=&quot;https://catinthedark.itch.io/&quot;&gt;catinthedark.itch.io&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
@@ -50,7 +50,7 @@
     &lt;/video&gt;
 &lt;p&gt;&lt;em&gt;Первый вариант — стрелялка. Мне показалось это не интересным.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Кстати, OLD48, как gathering для ludum dare, является отличным местом для тестирования гипотезы gameplay вашей игры. Если относиться к игре, сделанной на людуме, как к MVP некоторого стартапа, то на самом деле у нас была какая-то галлюцинация о крутом gameplay, который понравится людям. Ха-ха. Конечно не понравится. Этот ludum нам показал, что никому не интересно играть в TowerDefence+Tetris с жизнями, баллами(ой не важно) и стараться набрать максимальный счёт в таблице рекордов. Вместо риска получить больше очков, люди просто спамили тетрис-блоками, чтобы не потерять жизни не набирая очков.&lt;/p&gt;
+&lt;p&gt;Кстати, OLD48, как gathering для ludum dare, является отличным местом для тестирования гипотезы gameplay вашей игры. Если относиться к игре, сделанной на людуме, как к MVP некоторого стартапа, то на самом деле у нас была какая-то галлюцинация о крутом gameplay, который понравится людям. Ха-ха. Конечно не понравится. Этот ludum нам показал, что никому не интересно играть в TowerDefence+Tetris с жизнями, баллами(ой не важно) и стараться набрать максимальный счёт в таблице рекордов. Вместо риска получить больше очков, люди просто спамили тетрис-блоками, чтобы не потерять жизни.&lt;/p&gt;
 
 &lt;div class=&quot;youtube-container&quot;&gt;
   &lt;iframe class=&quot;youtube-video&quot; src=&quot;https://www.youtube.com/embed/7GXo6YB7KZ0?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;  
@@ -60,7 +60,7 @@
 
 &lt;p&gt;Поэтому в понедельник, спустя день после людума, я вечером переделал баланс игры и сместил его в другую сторону. Теперь мы предлагаем игрокам не набрать наибольший score, а попытаться играть в игру настолько долго, насколько возможно. Эдакий flappy-bird style.&lt;/p&gt;
 
-&lt;p&gt;В итоге весь геймплей стал завязан на Времени — это игровая “валюта”, которую ты получаешь и которой платишь за «промахи» и «пропуски» коробок.&lt;/p&gt;
+&lt;p&gt;В итоге весь геймплей стал завязан на Времени — это игровая “валюта”, которой платишь за «промахи» и «пропуски» коробок.&lt;/p&gt;
 
 &lt;h2 id=&quot;сюжет-игры&quot;&gt;Сюжет игры&lt;/h2&gt;
 
