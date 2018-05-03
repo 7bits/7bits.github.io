@@ -4,7 +4,7 @@
  <title>The blog of 7bits</title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2018-05-02T18:04:53+00:00</updated>
+ <updated>2018-05-03T03:47:12+00:00</updated>
  <id></id>
  <author>
    <name>7bits</name>
@@ -55,21 +55,21 @@
 
 &lt;h1 id=&quot;команда-cat_in_the_dark&quot;&gt;Команда CAT_IN_THE_DARK&lt;/h1&gt;
 
-&lt;div class=&quot;author&quot;&gt;&lt;div class=&quot;author__content&quot;&gt;&lt;img src=&quot;/assets/images/2018/04/ilya.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; class=&quot;author__photo&quot; /&gt;&lt;div&gt;&lt;span class=&quot;author__label&quot;&gt;Автор поста &lt;/span&gt;&lt;div class=&quot;author__author&quot;&gt;&lt;span class=&quot;author__name&quot;&gt;Илья Сиганов,&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;author__position&quot;&gt;разработчик и исследователь 7bits&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;author__intro&quot;&gt;Участвую в Людум Даре 14 раз подряд за последние 5 лет в команде CAT_IN_THE_DARK. Уже не могу остановиться делать игры.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;author&quot;&gt;&lt;div class=&quot;author__content&quot;&gt;&lt;img src=&quot;/assets/images/2018/04/ilya.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; class=&quot;author__photo&quot; /&gt;&lt;div&gt;&lt;span class=&quot;author__label&quot;&gt;Автор поста &lt;/span&gt;&lt;div class=&quot;author__author&quot;&gt;&lt;span class=&quot;author__name&quot;&gt;Илья Сиганов,&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;author__position&quot;&gt;разработчик и исследователь 7bits&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;author__intro&quot;&gt;Участвую в Ludum Dare 14 раз подряд за последние 5 лет в команде CAT_IN_THE_DARK. Уже не могу остановиться делать игры.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;В эти выходные, 21–22 апреля, мы командой CAT_IN_THE_DARK, состоящей в этот раз только из &lt;a href=&quot;https://vk.com/senior_sigan&quot;&gt;меня&lt;/a&gt; и &lt;a href=&quot;https://vk.com/svsoyka&quot;&gt;Светы&lt;/a&gt;, делали игру на тему “Combine 2 Incompatible Genres” в рамках мирового &lt;a href=&quot;https://ldjam.com/events/ludum-dare/41/&quot;&gt;LudumDare&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;В эти выходные, 21–22 апреля, мы командой CAT_IN_THE_DARK, состоящей в этот раз только из &lt;a href=&quot;https://vk.com/senior_sigan&quot;&gt;меня&lt;/a&gt; и &lt;a href=&quot;https://vk.com/svsoyka&quot;&gt;Светы&lt;/a&gt;, делали игру на тему “Combine 2 Incompatible Genres” в рамках мирового &lt;a href=&quot;https://ldjam.com/events/ludum-dare/41/&quot;&gt;Ludum Dare&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/2018/04/cat_in_the_dark_best.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Лучшие игры нашей команды: &lt;a href=&quot;https://catinthedark.itch.io/&quot;&gt;catinthedark.itch.io&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Обычно мы очень долго вымучиваем из темы какую-нибудь идею игры. Логично, нас обычно 4 человека и у каждого своя точка зрения и всем всё не нравится. А в этот раз было в 2 раза проще! Поэтому не долго думая, мы решили скрестить тетрис с чем-то ещё: со стрелялкой или с tower-defence. В итоге после первого дня комбинирования тетриса и стрелялки от первого лица, я остановился на tetris-tower-defence.&lt;/p&gt;
+&lt;p&gt;Обычно мы очень долго вымучиваем из темы какую-нибудь идею игры. Логично, нас обычно 4 человека, и у каждого своя точка зрения, и всем всё не нравится. А в этот раз было в 2 раза проще! Поэтому не долго думая, мы решили скрестить тетрис с чем-то ещё: со стрелялкой или с tower-defence. В итоге после первого дня комбинирования тетриса и стрелялки от первого лица, я остановился на tetris-tower-defence.&lt;/p&gt;
 
 &lt;video poster=&quot;//i.imgur.com/KmvHJjih.jpg&quot; preload=&quot;auto&quot; autoplay=&quot;autoplay&quot; muted=&quot;muted&quot; loop=&quot;loop&quot; webkit-playsinline=&quot;&quot; style=&quot;&quot;&gt;
       &lt;source src=&quot;//i.imgur.com/KmvHJji.mp4&quot; type=&quot;video/mp4&quot; /&gt;
     &lt;/video&gt;
 &lt;p&gt;&lt;em&gt;Первый вариант — стрелялка. Мне показалось это не интересным.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Кстати, OLD48, как gathering для ludum dare, является отличным местом для тестирования гипотезы gameplay вашей игры. Если относиться к игре, сделанной на людуме, как к MVP некоторого стартапа, то на самом деле у нас была какая-то галлюцинация о крутом gameplay, который понравится людям. Ха-ха. Конечно не понравится. Этот ludum нам показал, что никому не интересно играть в TowerDefence+Tetris с жизнями, баллами(ой не важно) и стараться набрать максимальный счёт в таблице рекордов. Вместо риска получить больше очков, люди просто спамили тетрис-блоками, чтобы не потерять жизни.&lt;/p&gt;
+&lt;p&gt;Кстати, OLD48, как gathering для Ludum Dare, является отличным местом для тестирования гипотезы gameplay вашей игры. Если относиться к игре, сделанной на Ludum Dare, как к MVP некоторого стартапа, то на самом деле у нас была какая-то галлюцинация о крутом gameplay, который понравится людям. Ха-ха. Конечно не понравится. Этот Ludum Dare нам показал, что никому не интересно играть в TowerDefence+Tetris с жизнями, баллами (ой не важно) и стараться набрать максимальный счёт в таблице рекордов. Вместо риска получить больше очков, люди просто спамили тетрис-блоками, чтобы не потерять жизни.&lt;/p&gt;
 
 &lt;div class=&quot;youtube-container&quot;&gt;
   &lt;iframe class=&quot;youtube-video&quot; src=&quot;https://www.youtube.com/embed/7GXo6YB7KZ0?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;  
@@ -77,13 +77,13 @@
 
 &lt;p&gt;&lt;em&gt;Первая версия и один из лучших игроков&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Поэтому в понедельник, спустя день после людума, я вечером переделал баланс игры и сместил его в другую сторону. Теперь мы предлагаем игрокам не набрать наибольший score, а попытаться играть в игру настолько долго, насколько возможно. Эдакий flappy-bird style.&lt;/p&gt;
+&lt;p&gt;Поэтому в понедельник, спустя день после Ludum Dare, я вечером переделал баланс игры и сместил его в другую сторону. Теперь мы предлагаем игрокам не набрать наибольший score, а попытаться играть в игру настолько долго, насколько возможно. Эдакий flappy-bird style.&lt;/p&gt;
 
-&lt;p&gt;В итоге весь геймплей стал завязан на Времени — это игровая “валюта”, которой платишь за «промахи» и «пропуски» коробок.&lt;/p&gt;
+&lt;p&gt;В итоге весь геймплей стал завязан на Времени — это игровая «валюта», которой платишь за «промахи» и «пропуски» коробок.&lt;/p&gt;
 
 &lt;h2 id=&quot;сюжет-игры&quot;&gt;Сюжет игры&lt;/h2&gt;
 
-&lt;p&gt;Главный герой — работник космической почтовой службы будущего. Он стоит на конвейере, вооруженный тетрис пушкой, и должен вставлять подходящие тетрис блоки в пролетающие мимо него коробки, в которых эти тетрис блоки отсутствуют. За пропуск коробки героя штрафую, отнимая 10 секунд времени игры, а за попытку вставить неподходящий блок, отнимают 3 секунды. За успешное заполнение коробки дают 5 секунд игрового времени. В самом начале игроку выдают «кредит» в размере 30 секунд игры. И естественно каждую секунду отнимают 1 секунду игрового времени. Таким образом теперь задача игрока — это продержаться как можно дольше, играя в игру.&lt;/p&gt;
+&lt;p&gt;Главный герой — работник космической почтовой службы будущего. Он стоит на конвейере, вооруженный тетрис пушкой, и должен вставлять подходящие тетрис блоки в пролетающие мимо него коробки, в которых эти тетрис блоки отсутствуют. За пропуск коробки героя штрафуют, отнимая 10 секунд времени игры, а за попытку вставить неподходящий блок, отнимают 3 секунды. За успешное заполнение коробки дают 5 секунд игрового времени. В самом начале игроку выдают «кредит» в размере 30 секунд игры. И естественно каждую секунду отнимают 1 секунду игрового времени. Таким образом теперь задача игрока — это продержаться как можно дольше, играя в игру.&lt;/p&gt;
 
 &lt;div class=&quot;youtube-container&quot;&gt;
   &lt;iframe class=&quot;youtube-video&quot; src=&quot;https://www.youtube.com/embed/7vaG9oPkJ8s?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;  
@@ -103,7 +103,7 @@
   &lt;li&gt;новый клевый арт?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Кстати, последние несколько людумов я делаю таймлапс разработки. Некоторые люди говорят, что это залипательно.&lt;/p&gt;
+&lt;p&gt;Кстати, последние несколько хакатонов я делаю таймлапс разработки. Люди говорят, что это залипательно.&lt;/p&gt;
 
 &lt;div class=&quot;youtube-container&quot;&gt;
   &lt;iframe class=&quot;youtube-video&quot; src=&quot;https://www.youtube.com/embed/fsnB2i9KHqs?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;  
